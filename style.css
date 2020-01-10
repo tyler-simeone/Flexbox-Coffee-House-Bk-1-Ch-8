@@ -1,0 +1,21 @@
+body {
+    max-width: 900px;
+}
+header {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+article {
+    border: 1px solid blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+}
+section {
+    border: 1px solid rebeccapurple;
+    
+    width: 33%;
+}
